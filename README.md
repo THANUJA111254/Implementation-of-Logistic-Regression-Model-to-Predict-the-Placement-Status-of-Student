@@ -55,7 +55,6 @@ data1
 
 x=data1.iloc[:,:-1]
 x
-
 y=data1["status"]
 y
 
@@ -79,7 +78,6 @@ confusion
 from sklearn.metrics import classification_report
 classification_report1 = classification_report(y_test,y_pred)
 print(classification_report1)
-
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
