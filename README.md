@@ -24,8 +24,8 @@ To write a program to implement the the Logistic Regression Model to Predict the
 ```python
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: GAUTHAM KRISHNA S
-RegisterNumber:  212223240036
+Developed by: Panga Thanuja
+RegisterNumber:  212224040231
 */
 ```
 ```python
